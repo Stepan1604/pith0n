@@ -7,7 +7,7 @@ from qdrant_client import QdrantClient, models
 from sentence_transformers import SentenceTransformer
 
 api_key = env.LLM_TOKEN
-model = "huihui-ai/Huihui-gemma-4-12B-it-abliterated"
+model = ""
 client = InferenceClient(api_key=api_key)
 
 model_token = SentenceTransformer('C:/Users/ASUS/Desktop/Projects/models/multilingual-e5-large')
@@ -55,7 +55,7 @@ async def llm_request(
 
     chat_response = client.chat.completions.create(
         model=model,
-        temperature=0.3,
+        temperature=0.5,
         top_p=0.9,
         messages=[
             {
