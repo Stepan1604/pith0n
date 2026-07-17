@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, We're <a href="https://daniilshat.ru/" target="_blank">Krazz and Stepan</a></h1>
+<h1 align="center">Hi there, We're <a href="https://yandex.ru/video/preview/11843531504909666715" target="_blank">Krazz and Stepan</a></h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 <h3 align="center">Physics and Mathematics students from Russia, future employees</h3>
